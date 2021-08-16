@@ -1,5 +1,6 @@
 # Translator
 This is my working prototype of word translator EN->RU using EasyOCR 
+
 ![example](https://user-images.githubusercontent.com/85990934/129613964-912f7c16-2f82-48b9-817a-2159f6d0568c.png)
 
 
