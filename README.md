@@ -17,6 +17,7 @@ pip install pywin32
 pip install easyocr
 pip install pil
 ```
+pytorch is optional
 
 ## How to use
 * Wait a few seconds after start
